@@ -1,2 +1,2 @@
 # Smart-Home-Systems
-Remote home sensors control in linuxta with c++.
+Remote home sensors control in Linux with c++.
